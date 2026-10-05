@@ -1,0 +1,4 @@
+interface:
+  display_name: "个人主站工作室"
+  short_description: "从真实资料构建或升级个人主站，精简内容与操作，兼顾审美、动效和发布"
+  default_prompt: "使用 $personal-site-studio，从现有资料或网站制作个人主站，合并重复展示，设计有内容依据的动效，并完成必要验证。"
